@@ -1,0 +1,1 @@
+ELSEVANE app privacy policies. Static documentation only: no store, purchases, SaaS functionality, analytics code or user uploads. Original text and markup; no third-party assets. Policy content is public; application source and customer catalogs are not included.
