@@ -1,0 +1,3 @@
+shipment,fnsku,expected,received,payment_units,scope_note
+A,FNSKU-DEMO,10,8,0,no linked adjustment shown
+B,FNSKU-DEMO,10,10,2,payment for a separate case or period

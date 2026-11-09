@@ -1,0 +1,4 @@
+kit,kit_quantity,component,quantity_per_kit,total_pieces
+DEMO-KIT,12,RING,3,36
+DEMO-KIT,12,CLASP,2,24
+DEMO-KIT,12,BOX,1,12
